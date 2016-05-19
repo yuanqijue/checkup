@@ -4,7 +4,6 @@
 
 前端框架：
 
-* bootstrap-3.3.6
-* jquery-2.2.3
-
+* bootstrap-3.3.6 <http://v3.bootcss.com/css/>
+* jquery-2.2.3 <http://api.jquery.com/>
 
